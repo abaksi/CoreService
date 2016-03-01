@@ -1,0 +1,6 @@
+C:\Users\abagchi\Desktop\Automated slns\CoreserviceClientReference\CoreserviceClientReference\obj\Debug\CoreserviceClientReference.csprojResolveAssemblyReference.cache
+C:\Users\abagchi\Desktop\Automated slns\CoreserviceClientReference\CoreserviceClientReference\bin\Debug\CoreserviceClientReference.dll
+C:\Users\abagchi\Desktop\Automated slns\CoreserviceClientReference\CoreserviceClientReference\bin\Debug\CoreserviceClientReference.pdb
+C:\Users\abagchi\Desktop\Automated slns\CoreserviceClientReference\CoreserviceClientReference\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+C:\Users\abagchi\Desktop\Automated slns\CoreserviceClientReference\CoreserviceClientReference\obj\Debug\CoreserviceClientReference.dll
+C:\Users\abagchi\Desktop\Automated slns\CoreserviceClientReference\CoreserviceClientReference\obj\Debug\CoreserviceClientReference.pdb
